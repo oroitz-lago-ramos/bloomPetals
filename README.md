@@ -10,8 +10,6 @@ Tout mettre à la meme taille
 
 - Mettre hr degradé arcanciel et reflechir sur les couleurs
 
-- regarder comment faire pour que tout rentre dans la page sans besoin de scroll
-
 -ajouter media-querys
 
 
