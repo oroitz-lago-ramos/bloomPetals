@@ -8,12 +8,6 @@
 - Dans les articles au lieu de mettre tout le texte mettre le debut et que le texte complet s'affiche lorsqu'on clique sur le bouton
 Tout mettre à la meme taille
 
-- Mettre hr degradé arcanciel et reflechir sur les couleurs
-
--ajouter media-querys
-
-
-
 !!! Demander si h1 par page ou par site!!!
 
 
@@ -22,3 +16,4 @@ Tout mettre à la meme taille
 - Ajouter des cadres dans les photos? V
 
 - remplacer marging et padding par des gap ou des meilleurs displays V (a reverifier)
+
